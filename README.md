@@ -1,9 +1,5 @@
-# Project 1 
+# Project: # Lasso Regression
 --- 
-
-# Lasso Regression
-
----
 
 ## Table of Contents
 
@@ -365,10 +361,3 @@ These parameters allow users to adjust the model's behavior based on their speci
 
 * However, some limitations might be fundamental due to the nature of LASSO and the characteristics of the data itself. For example, if the data is inherently noisy or lacks sufficient information, no amount of optimization can fully overcome these issues.
 ---
-
-## Contributors:
-
-1) Vrushabh Shet (A20560742 - vshet@hawk.iit.edu)
-2) Vaishnav Avinash Bhujbal (A20579636 - vbhujbal@hawk.iit.edu)
-3) Siddharth Bhamare (A20582786 - sbhamare1@hawk.iit.edu)
-4) Yash Chaudhari (A20601946 - ychaudhari1@hawk.iit.edu) 
